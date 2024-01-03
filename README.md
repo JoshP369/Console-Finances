@@ -72,9 +72,10 @@ Through this project, I successfully implemented JavaScript code to analyse fina
 
 ## Webpage Screenshot
 
-![Alt text](images/console-finances.png)
+![Alt text](assets/images/console-finances.png)
 
 
 ## Webpage Link
 
 - A live version of the results can be accessed at here: 
+[Live Link](https://joshp369.github.io/Console-Finances)
