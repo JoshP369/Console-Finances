@@ -77,5 +77,5 @@ Through this project, I successfully implemented JavaScript code to analyse fina
 
 ## Webpage Link
 
-- A live version of the results can be accessed at here: 
-[Live Link](https://joshp369.github.io/Console-Finances)
+- A live version of the results can be accessed here: 
+[Live Link](https://6595c7dbc648e8040c3dc599--frolicking-capybara-20a22b.netlify.app/)
